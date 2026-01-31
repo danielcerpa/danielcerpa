@@ -2,17 +2,11 @@
 # 👋 Hola!, soy Daniel Villanueva
 
 
-Soy estudiante y desarrollador en proceso, con interés en **desarrollo fullstack**, **videojuegos**, **sistemas** y **software bien hecho**. Me gusta aprender cómo funcionan las cosas por dentro y llevar ideas a proyectos reales.
-
----
-
 ##  Sobre mí
 
 -  Estudiante universitario
     
 -  Interesado en Fullstack (Frontend + Backend)
-    
--  Desarrollando videojuegos en **Godot**
     
 -  Usuario de **Linux** (Debian / arch)
     
@@ -37,7 +31,7 @@ Soy estudiante y desarrollador en proceso, con interés en **desarrollo fullstac
 
 - Angular
         
-- Godot Engine
+- Astro
     
 
 **Herramientas**
@@ -56,9 +50,7 @@ Soy estudiante y desarrollador en proceso, con interés en **desarrollo fullstac
 ##  En qué estoy trabajando
 
 -  Proyectos académicos y personales
-    
--  Un videojuego de gestion de recursos ambientado en México
-    
+        
 -  Mejorando lógica, arquitectura y buenas prácticas
     
 
