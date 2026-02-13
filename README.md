@@ -1,5 +1,5 @@
 
-# 👋 Hola!, soy Daniel Villanueva
+# 👋 Hola!
 
 
 ##  Sobre mí
