@@ -8,7 +8,7 @@
     
 -  Interesado en Fullstack (Frontend + Backend)
     
--  Usuario de **Linux** (Debian / arch)
+-  Usuario de **Linux** (Ubuntu / Debian)
     
     
 
@@ -31,14 +31,12 @@
 
 - Angular
         
-- Astro
+- React
     
 
 **Herramientas**
 
 - Git & GitHub
-    
-- Linux
     
 - VS Code
     
