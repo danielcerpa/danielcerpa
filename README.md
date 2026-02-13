@@ -6,7 +6,7 @@
 
 -  Estudiante universitario
     
--  Interesado en Fullstack (Frontend + Backend)
+-  Interesado en Fullstack
     
 -  Usuario de **Linux** (Ubuntu / Debian)
     
@@ -54,11 +54,4 @@
 
 ---
 
-## Objetivos
-
-- Convertirme en **desarrollador Fullstack**
-    
-- Publicar proyectos completos y bien documentados
-    
-- Aprender más sobre sistemas, motores y rendimiento
     
