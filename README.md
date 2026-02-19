@@ -8,7 +8,7 @@
     
 -  Interesado en Fullstack
     
--  Usuario de **Linux** (Ubuntu / Debian)
+-  Usuario de **Linux** (Arch / Debian)
     
     
 
@@ -27,29 +27,10 @@
 - SQL
     
 
-**Frameworks / Motores**
+**Frameworks**
 
-- Angular
         
 - React
-    
-
-**Herramientas**
-
-- Git & GitHub
-    
-- VS Code
-    
-- PostgreSQL
-    
-
----
-
-##  En qué estoy trabajando
-
--  Proyectos académicos y personales
-        
--  Mejorando lógica, arquitectura y buenas prácticas
     
 
 ---
