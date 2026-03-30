@@ -1,10 +1,10 @@
 # 👋 Hola, soy Daniel Cerpa
 
-Estudiante universitario apasionado por el desarrollo **WEB**, construyendo proyectos desde el frontend hasta el backend. Usuario de **Linux** (Arch / Debian) 🐧
+Estudiante universitario apasionado por el desarrollo **WEB**, construyendo proyectos desde el frontend hasta el backend. Usuario de **Linux** (Arch / Debian)
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción | Tech | Demo |
 |---|---|---|---|
@@ -16,7 +16,7 @@ Estudiante universitario apasionado por el desarrollo **WEB**, construyendo proy
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 **Lenguajes**
 
