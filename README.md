@@ -1,6 +1,6 @@
 # 👋 Hola, soy Daniel Cerpa
 
-Estudiante universitario apasionado por el desarrollo **Fullstack**, construyendo proyectos web desde el frontend hasta el backend. Usuario de **Linux** (Arch / Debian) 🐧
+Estudiante universitario apasionado por el desarrollo **WEB**, construyendo proyectos desde el frontend hasta el backend. Usuario de **Linux** (Arch / Debian) 🐧
 
 ---
 
@@ -43,7 +43,8 @@ Estudiante universitario apasionado por el desarrollo **Fullstack**, construyend
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielcerpa&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcerpa&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+</p><img width="1332" height="831" alt="image" src="https://github.com/user-attachments/assets/d9667da0-8f97-4778-a7c6-9cc38b5227bc" />
+
 
 ---
 
