@@ -10,13 +10,13 @@
 
 ## 📂 Proyectos
 
-| Proyecto | Descripción | Tech | Enlace |
+| Proyecto | Descripción | Tecnologías | Enlace |
 |---|---|---|---|
-| **Sistema ISO 9001** | Gestión de calidad alineada a la norma ISO 9001:2015, con acceso por usuario y modo demo. | ![PHP](https://img.shields.io/badge/PHP-e6f3fe?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-d0f4d8?style=flat-square) | [Demo ↗](https://minimalcodetest.com/jojik9001/login.php) |
-| **Audit Line** | Estudio de tiempos para líneas de producción: valoración Westinghouse, suplementos y tiempo estándar. | ![PHP](https://img.shields.io/badge/PHP-e6f3fe?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-d0f4d8?style=flat-square) | [Demo ↗](https://minimalcodetest.com/auditline/login.php) |
-| **Ciment** | SaaS para presupuestar obras: presupuestos, análisis y recursos en un mismo espacio. | ![SaaS](https://img.shields.io/badge/SaaS-fff5e0?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-e6f3fe?style=flat-square) | [Demo ↗](https://minimalcodetest.com/tecno/ciment-landing/index.html) |
-| **Sistema de Entomología** | Gestión de colecciones científicas de insectos (convenio ITESI · UG), con préstamos y guías de uso. | ![JavaScript](https://img.shields.io/badge/JavaScript-fff5e0?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-e6f3fe?style=flat-square) | [Demo ↗](https://minimalcodetest.com/tecno/UG/index.html) · [Repo](https://github.com/danielcerpa/Public_entomologia) |
-| **Sistema de Soportes** | Gestión de soportes técnicos para múltiples empresas. | ![JavaScript](https://img.shields.io/badge/JavaScript-fff5e0?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-d0f4d8?style=flat-square) | [Demo ↗](https://minimalcodetest.com/tecno/soporte/login.php) |
+| **Sistema ISO 9001** | Gestión de calidad alineada a la norma ISO 9001:2015, con acceso por usuario y modo demo. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/php_dark.svg"><img src="https://svgl.app/library/php.svg" width="24" height="24" alt="PHP" title="PHP"></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/mysql-icon-dark.svg"><img src="https://svgl.app/library/mysql-icon-light.svg" width="24" height="24" alt="MySQL" title="MySQL"></picture>&nbsp;<img src="https://svgl.app/library/mariadb.svg" width="24" height="24" alt="MariaDB" title="MariaDB"> | [Demo ↗](https://minimalcodetest.com/jojik9001/login.php) |
+| **Audit Line** | Estudio de tiempos para líneas de producción: valoración Westinghouse, suplementos y tiempo estándar. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/php_dark.svg"><img src="https://svgl.app/library/php.svg" width="24" height="24" alt="PHP" title="PHP"></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/mysql-icon-dark.svg"><img src="https://svgl.app/library/mysql-icon-light.svg" width="24" height="24" alt="MySQL" title="MySQL"></picture>&nbsp;<img src="https://svgl.app/library/mariadb.svg" width="24" height="24" alt="MariaDB" title="MariaDB"> | [Demo ↗](https://minimalcodetest.com/auditline/login.php) |
+| **Ciment** | SaaS para presupuestar obras: presupuestos, análisis y recursos en un mismo espacio. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/php_dark.svg"><img src="https://svgl.app/library/php.svg" width="24" height="24" alt="PHP" title="PHP"></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/mysql-icon-dark.svg"><img src="https://svgl.app/library/mysql-icon-light.svg" width="24" height="24" alt="MySQL" title="MySQL"></picture>&nbsp;<img src="https://svgl.app/library/mariadb.svg" width="24" height="24" alt="MariaDB" title="MariaDB"> | [Demo ↗](https://minimalcodetest.com/tecno/ciment-landing/index.html) |
+| **Sistema de Entomología** | Gestión de colecciones científicas de insectos (convenio ITESI · UG), con préstamos y guías de uso. | <img src="https://svgl.app/library/javascript.svg" width="24" height="24" alt="JavaScript" title="JavaScript">&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/php_dark.svg"><img src="https://svgl.app/library/php.svg" width="24" height="24" alt="PHP" title="PHP"></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/mysql-icon-dark.svg"><img src="https://svgl.app/library/mysql-icon-light.svg" width="24" height="24" alt="MySQL" title="MySQL"></picture> | [Demo ↗](https://minimalcodetest.com/tecno/UG/index.html) · [Repo](https://github.com/danielcerpa/Public_entomologia) |
+| **Sistema de Soportes** | Gestión de soportes técnicos para múltiples empresas. | <img src="https://svgl.app/library/javascript.svg" width="24" height="24" alt="JavaScript" title="JavaScript">&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/php_dark.svg"><img src="https://svgl.app/library/php.svg" width="24" height="24" alt="PHP" title="PHP"></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/mysql-icon-dark.svg"><img src="https://svgl.app/library/mysql-icon-light.svg" width="24" height="24" alt="MySQL" title="MySQL"></picture> | [Demo ↗](https://minimalcodetest.com/tecno/soporte/login.php) |
 
 ---
 
@@ -50,47 +50,61 @@ Sistema de gestión de colecciones entomológicas en el marco del convenio entre
 
 ## 🧰 Tecnologías
 
-**Frontend**<br>
-![HTML5](https://img.shields.io/badge/HTML5-e6f3fe?style=flat-square&logo=html5&logoColor=31302e)
-![CSS3](https://img.shields.io/badge/CSS3-e6f3fe?style=flat-square&logo=css&logoColor=31302e)
-![JavaScript](https://img.shields.io/badge/JavaScript-e6f3fe?style=flat-square&logo=javascript&logoColor=31302e)
-![TypeScript](https://img.shields.io/badge/TypeScript-e6f3fe?style=flat-square&logo=typescript&logoColor=31302e)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-e6f3fe?style=flat-square&logo=bootstrap&logoColor=31302e)
+<p>
+  <img src="https://svgl.app/library/html5.svg" width="40" height="40" alt="HTML5" title="HTML5">&nbsp;&nbsp;
+  <img src="https://svgl.app/library/css.svg" width="40" height="40" alt="CSS3" title="CSS3">&nbsp;&nbsp;
+  <img src="https://svgl.app/library/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;
+  <img src="https://svgl.app/library/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;
+  <img src="https://svgl.app/library/bootstrap.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap">
+</p>
 
-**Backend y bases de datos**<br>
-![PHP](https://img.shields.io/badge/PHP-d0f4d8?style=flat-square&logo=php&logoColor=31302e)
-![MySQL](https://img.shields.io/badge/MySQL-d0f4d8?style=flat-square&logo=mysql&logoColor=31302e)
-![MariaDB](https://img.shields.io/badge/MariaDB-d0f4d8?style=flat-square&logo=mariadb&logoColor=31302e)
+**Backend y bases de datos**
 
-**Análisis de datos**<br>
-![Python](https://img.shields.io/badge/Python-fff5e0?style=flat-square&logo=python&logoColor=31302e)
-![Pandas](https://img.shields.io/badge/Pandas-fff5e0?style=flat-square&logo=pandas&logoColor=31302e)
-![NumPy](https://img.shields.io/badge/NumPy-fff5e0?style=flat-square&logo=numpy&logoColor=31302e)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-fff5e0?style=flat-square)
-![DuckDB](https://img.shields.io/badge/DuckDB-fff5e0?style=flat-square&logo=duckdb&logoColor=31302e)
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/php_dark.svg"><img src="https://svgl.app/library/php.svg" width="40" height="40" alt="PHP" title="PHP"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/mysql-icon-dark.svg"><img src="https://svgl.app/library/mysql-icon-light.svg" width="40" height="40" alt="MySQL" title="MySQL"></picture>&nbsp;&nbsp;
+  <img src="https://svgl.app/library/mariadb.svg" width="40" height="40" alt="MariaDB" title="MariaDB">
+</p>
 
-**Herramientas**<br>
-![Docker](https://img.shields.io/badge/Docker-cbcbef?style=flat-square&logo=docker&logoColor=31302e)
-![Linux](https://img.shields.io/badge/Linux-cbcbef?style=flat-square&logo=linux&logoColor=31302e)
-![Git](https://img.shields.io/badge/Git-cbcbef?style=flat-square&logo=git&logoColor=31302e)
-![GitHub](https://img.shields.io/badge/GitHub-cbcbef?style=flat-square&logo=github&logoColor=31302e)
+**Análisis de datos**
+
+<p>
+  <img src="https://svgl.app/library/python.svg" width="40" height="40" alt="Python" title="Python">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" title="Pandas">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" title="NumPy">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" title="Matplotlib">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duckdb/duckdb-original.svg" width="40" height="40" alt="DuckDB" title="DuckDB">
+</p>
+
+**Herramientas**
+
+<p>
+  <img src="https://svgl.app/library/docker.svg" width="40" height="40" alt="Docker" title="Docker">&nbsp;&nbsp;
+  <img src="https://svgl.app/library/linux.svg" width="40" height="40" alt="Linux" title="Linux">&nbsp;&nbsp;
+  <img src="https://svgl.app/library/git.svg" width="40" height="40" alt="Git" title="Git">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/github_dark.svg"><img src="https://svgl.app/library/github_light.svg" width="40" height="40" alt="GitHub" title="GitHub"></picture>
+</p>
 
 <details>
 <summary>También he usado</summary>
 <br>
 
-![React](https://img.shields.io/badge/React-dfdcd9?style=flat-square&logo=react&logoColor=31302e)
-![Next.js](https://img.shields.io/badge/Next.js-dfdcd9?style=flat-square&logo=nextdotjs&logoColor=31302e)
-![Node.js](https://img.shields.io/badge/Node.js-dfdcd9?style=flat-square&logo=nodedotjs&logoColor=31302e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-dfdcd9?style=flat-square&logo=postgresql&logoColor=31302e)
-![C#](https://img.shields.io/badge/C%23-dfdcd9?style=flat-square&logo=dotnet&logoColor=31302e)
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/react_dark.svg"><img src="https://svgl.app/library/react_light.svg" width="40" height="40" alt="React" title="React"></picture>&nbsp;&nbsp;
+  <img src="https://svgl.app/library/nextjs_icon_dark.svg" width="40" height="40" alt="Next.js" title="Next.js">&nbsp;&nbsp;
+  <img src="https://svgl.app/library/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js">&nbsp;&nbsp;
+  <img src="https://svgl.app/library/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;
+  <img src="https://svgl.app/library/csharp.svg" width="40" height="40" alt="C#" title="C#">
+</p>
 
 </details>
 
 ---
 
 ## ✉️ Contacto
+<p>
+  <a href="mailto:dvillanuevacerpa@gmail.com" title="Correo: dvillanuevacerpa@gmail.com"><img src="https://svgl.app/library/gmail.svg" width="40" height="40" alt="Correo: dvillanuevacerpa@gmail.com"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/danielvillanuevacerpa" title="LinkedIn"><img src="https://svgl.app/library/linkedin.svg" width="40" height="40" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://portfoliodvc.netlify.app/" title="Portfolio"><img src="https://svgl.app/library/netlify.svg" width="40" height="40" alt="Portfolio"></a>
+</p>
 
-[![Email](https://img.shields.io/badge/dvillanuevacerpa@gmail.com-e6f3fe?style=flat-square&logo=gmail&logoColor=31302e)](mailto:dvillanuevacerpa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-e6f3fe?style=flat-square)](https://linkedin.com/in/danielvillanuevacerpa)
-[![Portfolio](https://img.shields.io/badge/portfoliodvc.netlify.app-e6f3fe?style=flat-square&logo=netlify&logoColor=31302e)](https://portfoliodvc.netlify.app/)
