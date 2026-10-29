@@ -1,7 +1,3 @@
-<img src="./avatar.webp" width="120" alt="Avatar de Daniel Cerpa">
-
-# Daniel Cerpa
-
 **Desarrollador Fullstack** y **Analista de Datos**. Desarrollo sistemas web para organizar procesos de trabajo y convertir datos en información útil, con soluciones que resuelven problemas cotidianos del mundo laboral.
 
 [![Portfolio](https://img.shields.io/badge/Ver_portfolio-097fe8?style=for-the-badge)](https://portfoliodvc.netlify.app/)
